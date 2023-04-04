@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.48bd4b56.css",
+    "main.js": "/portfolio/static/js/main.f5cd942e.js",
+    "static/media/p1.png": "/portfolio/static/media/p1.800679070135e1effcf5.png",
+    "static/media/p4.png": "/portfolio/static/media/p4.ddfc52d33d39fbf32205.png",
+    "static/media/logor.png": "/portfolio/static/media/logor.4d43ade72f69f11c62dc.png",
+    "static/media/p3.png": "/portfolio/static/media/p3.4d43ade72f69f11c62dc.png",
+    "static/media/p5.png": "/portfolio/static/media/p5.9ac8b6be1f7c09c757a9.png",
+    "static/media/p2.png": "/portfolio/static/media/p2.27422d095166ac21c256.png",
+    "static/media/p7.png": "/portfolio/static/media/p7.e71e57e221af959a7a7a.png",
+    "static/media/ArsanyEhab.pdf": "/portfolio/static/media/ArsanyEhab.cb3b34daf3a939ece152.pdf",
+    "static/media/web-removebg-preview.png": "/portfolio/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/Web-designer-1024x821.webp": "/portfolio/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/p6.png": "/portfolio/static/media/p6.f87b30c1ce689574fa35.png",
+    "static/media/bars.svg": "/portfolio/static/media/bars.a2e35dd5aede7934d82e.svg",
+    "index.html": "/portfolio/index.html",
+    "main.48bd4b56.css.map": "/portfolio/static/css/main.48bd4b56.css.map",
+    "main.f5cd942e.js.map": "/portfolio/static/js/main.f5cd942e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48bd4b56.css",
+    "static/js/main.f5cd942e.js"
+  ]
+}
